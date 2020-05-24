@@ -7,7 +7,7 @@
     <title>mi pagina</title>
 </head>
 <body>
-    hola careverga 2
+    hola #Censurado# 2
     Prueba de add
     Prueba de add y modificacion
 
